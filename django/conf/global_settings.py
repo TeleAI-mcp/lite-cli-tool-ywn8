@@ -1,0 +1,1 @@
+File content from django/django repository - django/conf/global_settings.py
