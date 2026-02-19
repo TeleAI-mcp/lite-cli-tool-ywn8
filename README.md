@@ -1,1 +1,3 @@
-# lite-cli-tool-ywn8
+# Lite Cli Tool Ywn8
+
+A command-line tool for modern development workflows.
